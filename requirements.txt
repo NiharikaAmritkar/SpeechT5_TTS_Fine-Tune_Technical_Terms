@@ -1,0 +1,7 @@
+datasets
+huggingface_hub
+torch
+soundfile
+speechbrain
+dataclasses-json  # For @dataclass support
+transformers  # Use the GitHub version if needed: git+https://github.com/huggingface/transformers.git
